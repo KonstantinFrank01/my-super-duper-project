@@ -9,9 +9,6 @@ ifndef::imagesdir[:imagesdir: images]
 |===
 |anwesend |Verteiler
 
-|Vorname Nachname
-|
-
 |A. Anton (teilweise)
 |A. Anton
 
